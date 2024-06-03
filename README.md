@@ -1,9 +1,12 @@
 ﻿# Scholarsphare
 This is a site which helps students find scholarships and Phd fundings.
+
+
 ![image](https://github.com/sahilaf/Scholarsphare/assets/117147361/594d09b9-5d37-4b40-a217-b21a6f84ad7c)
 
-Instructions
-To clone this project in your local mechine you need to install xampp and create the given database given below.
+
+
+Instructions to clone this project in your local mechine you need to install xampp and create the given database given below.
 
 admin(Email(pk), Password)
 chat_history( id(p), sender, text, timestamp, email)
